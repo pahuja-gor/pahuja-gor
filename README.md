@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## Skills:
 
 <br>
-<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<span class="iconify" data-icon="brandico:linkedin-rect" data-inline="false"></span>
 
 <img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">
 
