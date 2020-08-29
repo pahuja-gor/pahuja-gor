@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 # Hi, I'm Goral 👋🏾
 [`personal website`](https://goralpahuja.me/) | [`linkedin`](https://linkedin.com/in/goralp/)
 
+<!--
 ## Skills:
 
 <br>
-<span class="iconify" data-icon="brandico:linkedin-rect" data-inline="false"></span>
+<img 
 
 <img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">
 
@@ -41,3 +42,4 @@ Here are some ideas to get you started:
 
 <img alt="Google Chrome" title="Google Chrome" src="https://user-images.githubusercontent.com/1680157/87443745-47fd3c00-c5cc-11ea-878f-44f34572775e.png" height="24">
 <br>
+-->
