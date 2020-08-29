@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 # Hi, I'm Goral 👋🏾
 [`personal website`](https://goralpahuja.me/) | [`linkedin`](https://linkedin.com/in/goralp/)
 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
 > #### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
 > Configuration can be launched from the **Tools -> Settings** menu option.
