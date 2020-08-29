@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-['personal website/portfolio'] [https://goralpahuja.me] | [linkedin] [https://linkedin.com/in/goralp]
+# Hi, I'm Goral 👋🏾
+['personal website/portfolio'] (https://goralpahuja.me) | ['linkedin'] (https://linkedin.com/in/goralp)
