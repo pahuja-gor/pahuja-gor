@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Goral 👋🏾
-['personal website/portfolio'] (https://goralpahuja.me) | ['linkedin'] (https://linkedin.com/in/goralp)
+[`personal website/portfolio`] (https://goralpahuja.me) | [`linkedin`] (https://linkedin.com/in/goralp)
