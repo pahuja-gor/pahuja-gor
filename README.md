@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <p align="center">
     <a href="https://goralpahuja.me/" target="_blank">personal website</a> | 
     <a href="https://linkedin.com/in/goralp" target="_blank">linkedin</a> | 
-    <!--<a href="#">
+    <a href="#">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=pahuja-gor.pahuja-gor.svg">
-    </a>-->
+    </a>
 </p>
 <hr>
 
