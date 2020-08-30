@@ -38,26 +38,4 @@ Here are some ideas to get you started:
 
 <hr>
 <h2>Skills:</h2>
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />
-&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />
-&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" />
-&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" />
-&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/html5.svg" />
-&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/css3.svg" />
-&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />
-&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/bootstrap.svg" />
-&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/react.svg" />
-&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/pytorch.svg" />
-&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" />
-&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/html5.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/css3.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/bootstrap.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/react.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/pytorch.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" />
