@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<br>
+<hr>
 
 <p align="center">
     Test
