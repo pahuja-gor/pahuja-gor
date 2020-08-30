@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <hr>
 <h2>Skills:</h2>
 <div class="skills">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" alt="Python" color="red"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" alt="Python" style="color: red"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" alt="Java"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
