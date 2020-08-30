@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p style="text-align: center; align="center">
+<p align="center">
     <h1 style="text-align: center">Hi, I'm Goral 👋🏾</h1>
     <a style="text-align: center" href="https://goralpahuja.me/">personal website</a> | 
     <a style="text-align: center" href="https://linkedin.com/in/goralp">linkedin</a> | 
