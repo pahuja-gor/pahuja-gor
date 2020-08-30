@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <p align="center">
     <a href="https://goralpahuja.me/" target="_blank">personal website</a> | 
     <a href="https://linkedin.com/in/goralp" target="_blank">linkedin</a> | 
-    <a href="#">
+    <!--<a href="#">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=pahuja-gor.pahuja-gor.svg">
-    </a>
+    </a>-->
 </p>
 <hr>
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pahuja-gor&hide_rank=false&hide_title=false&include_all_commits=true&count_private=true&show_icons=true&theme=dracula" />
   </a>
   <a href="https://github.com/pahuja-gor">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahuja-gor&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahuja-gor&theme=dracula&card_with=10" />
   </a>
 </div>
 
