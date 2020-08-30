@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 # Hi, I'm Goral 👋🏾
 [`personal website`](https://goralpahuja.me/) | [`linkedin`](https://linkedin.com/in/goralp/)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<pahuja-gor>&theme=<dracula>" />
+
 <!--
 ## Skills:
 
