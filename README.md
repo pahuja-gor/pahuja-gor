@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p style="text-align: center;">
+<p style="text-align: center; align="center">
     <h1 style="text-align: center">Hi, I'm Goral 👋🏾</h1>
-    <a href="https://goralpahuja.me/">personal website</a> | 
-    <a href="https://linkedin.com/in/goralp">linkedin</a> | 
-    <a href="https://github.com/pahuja-gor">
+    <a style="text-align: center" href="https://goralpahuja.me/">personal website</a> | 
+    <a style="text-align: center" href="https://linkedin.com/in/goralp">linkedin</a> | 
+    <a style="text-align: center" href="https://github.com/pahuja-gor">
         <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=pahuja-gor.pahuja-gor.svg">
     </a>
 </p>
