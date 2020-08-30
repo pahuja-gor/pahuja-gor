@@ -22,8 +22,12 @@ Here are some ideas to get you started:
   <br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pahuja-gor&theme=dracula)](https://github.com/pahuja-gor/)
 <br>
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=pahuja-gor.pahuja-gor)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pahuja-gor.pahuja-gor)
+<p align="center">
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=pahuja-gor.pahuja-gor">
+    <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=pahuja-gor.pahuja-gor.svg">
+  </a>
+</p>
 
 
 
