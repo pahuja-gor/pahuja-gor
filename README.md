@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align='center>
 # Hi, I'm Goral 👋🏾
 [`personal website`](https://goralpahuja.me/) | [`linkedin`](https://linkedin.com/in/goralp/)
-</div>
 <hr>
+<div align='center'>
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pahuja-gor&hide_rank=false&hide_title=false&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)](https://github.com/pahuja-gor/)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pahuja-gor&theme=dracula)](https://github.com/pahuja-gor/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=pahuja-gor.pahuja-gor)]
+</div>
+
 
 
 <!--
