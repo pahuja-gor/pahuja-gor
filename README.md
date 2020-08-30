@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 <hr>
 
+<h2>GitHub Stats:</h2>
+
 <div class="github-stats" align="center">
   <a href="https://github.com/pahuja-gor">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pahuja-gor&hide_rank=false&hide_title=false&include_all_commits=true&count_private=true&show_icons=true&theme=dracula" />
