@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+<div style="text-align: center">
     # Hi, I'm Goral 👋🏾
     [`personal website`](https://goralpahuja.me/) | [`linkedin`](https://linkedin.com/in/goralp/) | 
     <a href="https://github.com/pahuja-gor">
         <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=pahuja-gor.pahuja-gor.svg">
     </a>
-</p>
+</div>
 
 <hr>
 
