@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <h1 align=center>Hi, I'm Goral 👋🏾</h1>
 <p align="center">
-    <a href="https://goralpahuja.me/">personal website</a> | 
-    <a href="https://linkedin.com/in/goralp">linkedin</a> | 
-    <a href="https://github.com/pahuja-gor">
+    <a href="https://goralpahuja.me/" target="_blank">personal website</a> | 
+    <a href="https://linkedin.com/in/goralp" target="_blank">linkedin</a> | 
+    <a href="#">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=pahuja-gor.pahuja-gor.svg">
     </a>
 </p>
