@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 
 <hr>
 <h2>Skills:</h2>
+<script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+<span class="iconify" data-icon="simple-icons:pandas" data-inline="false"></span>
