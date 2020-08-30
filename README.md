@@ -38,5 +38,15 @@ Here are some ideas to get you started:
 
 <hr>
 <h2>Skills:</h2>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/simpleicons.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/simpleicons.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c++.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/html5svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/css3.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/bootstrap.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/react.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/pytorch.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" />
