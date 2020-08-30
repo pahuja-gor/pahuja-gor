@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Goral 👋🏾
-[`personal website`](https://goralpahuja.me/) | [`linkedin`](https://linkedin.com/in/goralp/)
-<hr>
 <p align='center>
-          Hi
+          # Hi, I'm Goral 👋🏾
+          [`personal website`](https://goralpahuja.me/) | [`linkedin`](https://linkedin.com/in/goralp/)
 </p>
+<hr>
 
 
 <!--
