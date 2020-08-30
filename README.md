@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <h2>Skills:</h2>
 <div class="container">
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />
 </div>
 <!--
