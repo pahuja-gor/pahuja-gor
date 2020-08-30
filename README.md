@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!--
 ## Skills:
 
-<br>
+<hr>
 <img 
 
 <img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">
