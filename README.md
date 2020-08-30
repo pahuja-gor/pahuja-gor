@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 <p style="text-align: center;">
     <h1 style="text-align: center">Hi, I'm Goral 👋🏾</h1>
     <a href="https://goralpahuja.me/">personal website</a> | 
-    <a href="https://linkedin.com/in/goralp">linkedin</a>
-    [`personal website`](https://goralpahuja.me/) | [`linkedin`](https://linkedin.com/in/goralp/) |
+    <a href="https://linkedin.com/in/goralp">linkedin</a> | 
+    <a href="https://github.com/pahuja-gor">
+        <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=pahuja-gor.pahuja-gor.svg">
+    </a>
 </p>
 
 <hr>
