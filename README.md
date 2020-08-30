@@ -35,3 +35,4 @@ Here are some ideas to get you started:
 </div>
 
 <hr>
+<h2>Skills:</h2>
