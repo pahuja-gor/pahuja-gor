@@ -22,7 +22,14 @@ Here are some ideas to get you started:
   <br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pahuja-gor&theme=dracula)](https://github.com/pahuja-gor/)
 <br>
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pahuja-gor.pahuja-gor)
+<div class="github-stats">
+  <a href="https://github.com/pahuja-gor">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pahuja-gor&hide_rank=false&hide_title=false&include_all_commits=true&count_private=true&show_icons=true&theme=dracula" />
+  </a>
+  <a href="https://github.com/pahuja-gor">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahuja-gor&theme=dracula" />
+  </a>
+</div>
 <p align="center">
   <a href="https://visitor-badge.laobi.icu/badge?page_id=pahuja-gor.pahuja-gor">
     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=pahuja-gor.pahuja-gor.svg">
