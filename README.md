@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<pahuja-gor>&theme=<dracula>" /> -->
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pahuja-gor)](https://github.com/pahuja-gor/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pahuja-gor&count_private=true)](https://github.com/pahuja-gor/github-readme-stats)
 
 <!--
 ## Skills:
