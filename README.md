@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Goral 👋🏾
-[`personal website`](https://goralpahuja.me/) | [`linkedin`](https://linkedin.com/in/goralp/)
+[`personal website`](https://goralpahuja.me/) | [`linkedin`](https://linkedin.com/in/goralp/) | <a href="https://visitor-badge.laobi.icu/badge?page_id=pahuja-gor.pahuja-gor">
+    <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=pahuja-gor.pahuja-gor.svg">
+  </a>
 
 <br>
 <div class="github-stats" align="center">
