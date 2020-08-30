@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c++.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cpp.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/html5svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/css3.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />
