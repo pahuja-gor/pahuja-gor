@@ -39,30 +39,27 @@ Here are some ideas to get you started:
 <hr>
 <h2>Skills:</h2>
 <div class="skills">
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" text="Python"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" alt="Python"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" alt="Java"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" />
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" alt="C"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" />
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" alt="C++"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/html5.svg" />
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/html5.svg" alt="HTML5"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/css3.svg" />
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/css3.svg" alt="CSS3"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" alt="JavaScript"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/bootstrap.svg" />
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/bootstrap.svg" alt="Bootstrap"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/react.svg" />
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/react.svg" alt="React"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/pytorch.svg" />
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/pytorch.svg" alt="PyTorch"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" />
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" alt="GitHub"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" />
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" alt="Git"/>
 </div>
-<!--
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/c.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/html5.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/css3.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/bootstrap.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/react.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/pytorch.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" />
--->
