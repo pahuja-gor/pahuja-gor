@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 # Hi, I'm Goral 👋🏾
 [`personal website`](https://goralpahuja.me/) | [`linkedin`](https://linkedin.com/in/goralp/)
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<pahuja-gor>&theme=<dracula>" /> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<pahuja-gor>&theme=<dracula>" />
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pahuja-gor&hide_rank=false&hide_title=false&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)](https://github.com/pahuja-gor/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pahuja-gor&theme=dracula)](https://github.com/pahuja-gor/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pahuja-gor&repo=pahuja-gor.github.io)](https://github.com/pahuja-gor/pahuja-gor.github.io)
 
 
 <!--
