@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 # Hi, I'm Goral 👋🏾
 [`personal website`](https://goralpahuja.me/) | [`linkedin`](https://linkedin.com/in/goralp/)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<pahuja-gor>&theme=<dracula>" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<pahuja-gor>&theme=<dracula>" /> -->
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pahuja-gor)](https://github.com/pahuja-gor/github-readme-stats)
 
 <!--
 ## Skills:
