@@ -45,7 +45,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" alt="GitHub"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="32" width="32" style="background-color:red;" src="https://unpkg.com/simple-icons@v3/icons/git.svg" alt="Git"/>
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" alt="Git"/>
 </div>
 
 
