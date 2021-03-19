@@ -1,19 +1,3 @@
-<!--
-### Hi there 👋
-
-**pahuja-gor/pahuja-gor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align=center>Hi, I'm Goral 👋🏾</h1>
 <p align="center">
     <a href="https://goralpahuja.me/" target="_blank">personal website</a> | 
@@ -61,5 +45,32 @@ Here are some ideas to get you started:
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" alt="GitHub"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" alt="Git"/>
+    <img height="32" width="32" style="color:red;" src="https://unpkg.com/simple-icons@v3/icons/git.svg" alt="Git"/>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+<!--
+### Hi there 👋
+
+**pahuja-gor/pahuja-gor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
