@@ -16,7 +16,7 @@
   </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/pahuja-gor">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahuja-gor&theme=dracula&hide=jupyter%20notebook" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahuja-gor&theme=dracula" />
   </a>
 </div>
 
